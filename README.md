@@ -26,7 +26,7 @@ Prefer Flask? Checkout my [gtalarico/flask-vuejs-template](https://github.com/gt
 
 ### Demo
 
-[Live Demo](https://django-vue-template-demo.herokuapp.com/)
+[Live Demo](https://django-vue-template-1.herokuapp.com/)
 
 ### Includes
 
